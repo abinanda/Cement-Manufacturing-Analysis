@@ -1,0 +1,62 @@
+date_time, mill_tph, clinker_tph, gypsum_tph, dfa_tph, wfa_tph, 
+mill_kw, mill_il_temp, mill_ol_temp, mill_ol_be_amp, mill_vent_fan_rpm, 
+mill_vent_fan_kw, mill_vent_bf_il_draft, mill_vent_bf_ol_draft, reject, 
+sep_rpm, sep_kw, sep_amp, ca_fan_rpm, ca_fan_kw, mill_folaphone, mill_il_draft,
+ mill_ol_draft, sep_vent_il_draft, sep_vent_ol_draft, sep_vent_bag_filter_fan_kw, 
+ sep_vent_bag_filter_fan_rpm, residue_45_lu
+
+
+    For example, the mill throughput, mill power consumption, and mill inlet and outlet temperatures are all indicators of the mill's efficiency
+
+The separator RPM, separator power consumption, and separator ammeter reading are all indicators of the separator's efficiency.
+
+
+The mill folaphone is a measure of the fineness of the ground cement, which is important for the quality of the cement. 
+
+ The mill inlet and outlet drafts, separator vent inlet and outlet drafts, and separator vent bag filter fan RPM and power consumption are all important for controlling the flow of air and dust in the cement manufacturing process.
+
+The residue_45_lu is a measure of the amount of coarse particles in the cement, which is important for the quality of the cement.
+
+
+Here is an example of how the data in the dataset could be used to improve the cement manufacturing process:
+
+If the mill throughput is too low, the cement manufacturer could increase the mill speed or feed rate.
+If the mill power consumption is too high, the cement manufacturer could reduce the mill speed or feed rate.
+If the mill inlet temperature is too high, the cement manufacturer could increase the flow of cooling air to the mill.
+If the mill outlet temperature is too low, the cement manufacturer could reduce the flow of cooling air to the mill.
+If the separator RPM is too low, the cement manufacturer could increase the separator speed.
+
+
+
+Quality Control Team Questions:
+
+How does the clinker production (Clinker TPH) vary over time? Are there any patterns or trends that could indicate potential quality issues?
+What is the distribution of clinker residue (45μ) over the observed period? Are there any outliers that may indicate a need for quality control measures?
+Can we identify any correlations between mill operating conditions (e.g., Mill I/L Temp, Mill O/L Temp) and clinker quality (Clinker TPH)?
+Is there a relationship between the reject rate and the clinker production rate? How does this impact product quality?
+
+Production Team Questions:
+How can we optimize mill operation (Mill KW, Mill TPH) to achieve higher production output (Clinker TPH) while maintaining product quality and energy efficiency?
+
+Are there specific time periods when the mill vent fan operates at higher or lower efficiency (Mill Vent Fan RPM and KW)?
+Is there a significant relationship between Separator Vent Efficiency and the reject rate ,does the efficiency of the separator vent impact reject rates ?
+What is the quarterly trend in clinker production (Clinker TPH) over the analyzed period?
+Can we identify any patterns or relationships between the rates of processing DFA (DFA_TPH) and WFA (WFA_TPH) with the clinker production rate (Clinker_TPH)?
+
+Plant Manager Questions:
+9. What is the overall energy consumption of the plant during the observed time period? Are there any opportunities for energy savings?
+
+How does the clinker production (Clinker TPH) relate to the power consumption (Mill KW) and the efficiency of the mill (Mill Vent Fan RPM and KW)?
+Can we visualize the performance of the bag filter system (Sep.Vent bag filter fan KW and RPM) and identify any maintenance needs or improvements?
+What is the relationship between mill draft (Mill I/L Draft, Mill O/L Draft) and clinker quality (Clinker TPH)? Does draft affect product quality?
+
+
+
+
+Plant Manager:
+
+Clinker Production Efficiency: Plant managers are concerned with production targets and efficiency, making this metric relevant for overall plant performance.
+
+Energy Efficiency Metrics (e.g., Mill KW, Fan KW): Plant managers are typically responsible for cost management. Monitoring energy consumption is vital for optimizing costs.
+
+Quality Control Metrics: Plant managers oversee overall product quality and may need to monitor specific quality control metrics, such as fineness, chemical composition, and setting time.

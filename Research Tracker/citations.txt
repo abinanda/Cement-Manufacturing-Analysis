@@ -1,0 +1,15 @@
+Efficient machine learning model to predict fineness, in a vertical raw meal of Morocco cement plant
+https://www.sciencedirect.com/science/article/pii/S2590123022005035
+
+Process technology for efficient and sustainable cement production
+https://www.sciencedirect.com/science/article/abs/pii/S0008884615001453
+
+Automation of Cement Industries 
+https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=55392e2e3cff62d48ef8637673d3dc49b1498ecd
+
+
+Soft Sensor for Online Cement Fineness Predicting in Ball Mills
+https://www.atlantis-press.com/proceedings/issat-20/125949850
+
+X-ray fluorescence analysis of Portland cement and clinker for major and trace elements: accuracy and precision
+https://link.springer.com/article/10.1007/s41779-017-0087-x#citeas

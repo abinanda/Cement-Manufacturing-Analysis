@@ -1,0 +1,77 @@
+Quality Control Teams:
+
+Based on historical data, can we identify periods with consistently low residue levels (Residue) that suggest stable product quality, potentially reducing testing frequency during those times?
+Are there specific patterns or trends in residue data that can help streamline the quality control process and reduce the time required for testing?
+Can we identify historical patterns or anomalies in residue data that have historically led to extended testing times
+Production Teams:
+
+How can we use mill throughput data (Mill TPH) to optimize production schedules and minimize testing-related delays?
+Are there correlations between fan speeds (Mill Vent Fan RPM, CA Fan RPM) and testing time, and can we adjust fan settings for more efficient testing?
+What process adjustments can be made based on separator performance data (Sep RPM) to reduce testing time and increase production efficiency?
+Plant Managers:
+
+Can we review historical data on power consumption (Mill KW) and find instances where lower energy consumption coincided with reduced testing time, thus highlighting energy-efficient modes of operation?
+Are there temperature profiles (Mill I/L Temp, Mill O/L Temp) that, when monitored, can lead to faster testing without compromising product quality?
+Can draft pressure data (Draft values) at various points in the system be used to streamline testing processes and minimize downtime during testing?
+
+
+
+
+
+
+
+
+
+
+Quality Control Teams:
+
+Residue Analysis Over Time:
+
+Visualization: Line Chart showing the historical trend of Residue (%).
+Question: How has the residue level changed over time, and are there identifiable patterns or trends that can help optimize testing procedures?
+
+Residue vs. Reject Rate:
+
+Visualization: Scatter Plot comparing Residue and Reject values.
+Question: Is there a correlation between residue levels and the amount of material rejected? Can this correlation be used to streamline quality control?
+
+Residue vs. Mill TPH:
+
+Visualization: Scatter Plot comparing Residue and Mill TPH.
+Question: Are there specific combinations of residue and mill throughput that result in more efficient testing?
+
+
+Production Teams:
+
+Mill Throughput Analysis:
+
+Visualization: Line Chart showing Mill TPH over time.
+Question: How does the mill throughput vary over time, and can we identify periods of higher throughput associated with reduced testing time?
+
+Fan Speeds and Testing Time:
+
+Visualization: Multiple Line Charts displaying Mill Vent Fan RPM, CA Fan RPM, and Testing Time.
+Question: Is there a correlation between fan speeds and testing time? How can we adjust fan settings for more efficient testing?
+
+Separator Performance Impact:
+
+Visualization: Scatter Plot comparing Sep RPM and Testing Time.
+Question: Can we make process adjustments based on separator performance data to reduce testing time while maintaining production efficiency?
+
+
+
+Plant Managers:
+
+Energy-Efficient Modes:
+
+Visualization: Line Chart showing Mill KW over time.
+Question: Are there instances where lower energy consumption coincided with reduced testing time, highlighting energy-efficient modes of operation?
+
+Temperature Profile Analysis:
+
+Visualization: Line Chart displaying Mill I/L Temp and Mill O/L Temp.
+Question: Can specific temperature profiles be identified that lead to faster testing without compromising product quality?
+Draft Pressure Optimization:
+
+Visualization: Multiple Line Charts showing draft pressures at various points in the system.
+Question: How can draft pressure data be used to streamline testing processes and minimize downtime during testing?
